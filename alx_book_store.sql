@@ -8,6 +8,7 @@ CREATE TABLE table_name (
     publication_date DATE
 );
 
+
 CREATE TABLE Authors(
     author_id (Primary Key)
     author_name VARCHAR(215)
