@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "Intro_to_DB",
+			"path": "."
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "ConsoleApp1.sln"
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			
+
+		]
+	}
+}
